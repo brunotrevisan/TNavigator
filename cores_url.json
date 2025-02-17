@@ -6,7 +6,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/snes9x_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/snes9x_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/snes9x_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/snes9x_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/snes9x_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/snes9x_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/snes9x_libretro_tvos.dylib.zip"
   },
@@ -17,7 +17,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/genesis_plus_gx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/genesis_plus_gx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/genesis_plus_gx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/genesis_plus_gx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/genesis_plus_gx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip"
   },
@@ -28,7 +28,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/genesis_plus_gx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/genesis_plus_gx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/genesis_plus_gx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/genesis_plus_gx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/genesis_plus_gx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip"
   },
@@ -39,7 +39,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/nestopia_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/nestopia_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/nestopia_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/nestopia_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/nestopia_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/nestopia_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/nestopia_libretro_tvos.dylib.zip"
   },
@@ -50,7 +50,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbneo_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbneo_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fbneo_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fbneo_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fbneo_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fbneo_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fbneo_libretro_tvos.dylib.zip"
   },
@@ -61,7 +61,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_gba_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_gba_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_gba_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_gba_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_gba_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_gba_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_gba_libretro_tvos.dylib.zip"
   },
@@ -72,7 +72,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbneo_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbneo_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fbneo_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fbneo_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fbneo_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fbneo_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fbneo_libretro_tvos.dylib.zip"
   },
@@ -83,7 +83,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbneo_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbneo_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fbneo_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fbneo_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fbneo_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fbneo_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fbneo_libretro_tvos.dylib.zip"
   },
@@ -94,7 +94,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbneo_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbneo_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fbneo_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fbneo_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fbneo_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fbneo_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fbneo_libretro_tvos.dylib.zip"
   },
@@ -105,7 +105,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbneo_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbneo_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fbneo_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fbneo_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fbneo_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fbneo_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fbneo_libretro_tvos.dylib.zip"
   },
@@ -116,7 +116,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/genesis_plus_gx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/genesis_plus_gx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/genesis_plus_gx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/genesis_plus_gx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/genesis_plus_gx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip"
   },
@@ -127,7 +127,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbneo_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbneo_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fbneo_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fbneo_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fbneo_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fbneo_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fbneo_libretro_tvos.dylib.zip"
   },
@@ -138,7 +138,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/prosystem_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/prosystem_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/prosystem_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/prosystem_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/prosystem_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/prosystem_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/prosystem_libretro_tvos.dylib.zip"
   },
@@ -149,7 +149,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/virtualjaguar_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/virtualjaguar_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/virtualjaguar_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/virtualjaguar_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/virtualjaguar_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/virtualjaguar_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/virtualjaguar_libretro_tvos.dylib.zip"
   },
@@ -160,7 +160,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/genesis_plus_gx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/genesis_plus_gx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/genesis_plus_gx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/genesis_plus_gx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/genesis_plus_gx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip"
   },
@@ -171,7 +171,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/genesis_plus_gx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/genesis_plus_gx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/genesis_plus_gx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/genesis_plus_gx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/genesis_plus_gx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/genesis_plus_gx_libretro_tvos.dylib.zip"
   },
@@ -182,7 +182,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/picodrive_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/picodrive_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/picodrive_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/picodrive_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/picodrive_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/picodrive_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/picodrive_libretro_tvos.dylib.zip"
   },
@@ -193,7 +193,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_pce_fast_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_pce_fast_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_pce_fast_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_pce_fast_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_pce_fast_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_pce_fast_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_pce_fast_libretro_tvos.dylib.zip"
   },
@@ -204,7 +204,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_wswan_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_wswan_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_wswan_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_wswan_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_wswan_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_wswan_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_wswan_libretro_tvos.dylib.zip"
   },
@@ -215,7 +215,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_ngp_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_ngp_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_ngp_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_ngp_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_ngp_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_ngp_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_ngp_libretro_tvos.dylib.zip"
   },
@@ -226,7 +226,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/gambatte_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/gambatte_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/gambatte_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/gambatte_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/gambatte_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/gambatte_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/gambatte_libretro_tvos.dylib.zip"
   },
@@ -237,7 +237,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_pce_fast_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_pce_fast_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_pce_fast_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_pce_fast_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_pce_fast_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_pce_fast_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_pce_fast_libretro_tvos.dylib.zip"
   },
@@ -248,7 +248,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_pcfx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_pcfx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_pcfx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_pcfx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_pcfx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_pcfx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_pcfx_libretro_tvos.dylib.zip"
   },
@@ -259,7 +259,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/noitatskcud_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/noitatskcud_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/noitatskcud_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/noitatskcud_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/noitatskcud_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/noitatskcud_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/noitatskcud_libretro_tvos.dylib.zip"
   },
@@ -270,7 +270,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/stella_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/stella_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/stella_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/stella_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/stella_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/stella_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/stella_libretro_tvos.dylib.zip"
   },
@@ -281,7 +281,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/handy_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/handy_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/handy_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/handy_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/handy_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/handy_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/handy_libretro_tvos.dylib.zip"
   },
@@ -292,7 +292,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/gambatte_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/gambatte_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/gambatte_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/gambatte_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/gambatte_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/gambatte_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/gambatte_libretro_tvos.dylib.zip"
   },
@@ -303,7 +303,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_wswan_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_wswan_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_wswan_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_wswan_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_wswan_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_wswan_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_wswan_libretro_tvos.dylib.zip"
   },
@@ -314,7 +314,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_ngp_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_ngp_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_ngp_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_ngp_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_ngp_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_ngp_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_ngp_libretro_tvos.dylib.zip"
   },
@@ -325,7 +325,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_pcfx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_pcfx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_pcfx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_pcfx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_pcfx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_pcfx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_pcfx_libretro_tvos.dylib.zip"
   },
@@ -336,7 +336,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fmsx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fmsx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fmsx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fmsx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fmsx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fmsx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fmsx_libretro_tvos.dylib.zip"
   },
@@ -347,7 +347,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fmsx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fmsx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fmsx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fmsx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fmsx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fmsx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fmsx_libretro_tvos.dylib.zip"
   },
@@ -358,7 +358,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/gearcoleco_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/gearcoleco_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/gearcoleco_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/gearcoleco_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/gearcoleco_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/gearcoleco_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/gearcoleco_libretro_tvos.dylib.zip"
   },
@@ -369,7 +369,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fceumm_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fceumm_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/fceumm_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/fceumm_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/fceumm_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/fceumm_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/fceumm_libretro_tvos.dylib.zip"
   },
@@ -380,7 +380,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/opera_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/opera_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/opera_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/opera_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/opera_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/opera_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/opera_libretro_tvos.dylib.zip"
   },
@@ -391,7 +391,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/neocd_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/neocd_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/neocd_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/neocd_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/neocd_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/neocd_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/neocd_libretro_tvos.dylib.zip"
   },
@@ -402,7 +402,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/a5200_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/a5200_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/a5200_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/a5200_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/a5200_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/a5200_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/a5200_libretro_tvos.dylib.zip"
   },
@@ -413,7 +413,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/o2em_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/o2em_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/o2em_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/o2em_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/o2em_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/o2em_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/o2em_libretro_tvos.dylib.zip"
   },
@@ -424,7 +424,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/melonds_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/melonds_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/melonds_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/melonds_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/melonds_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/melonds_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/melonds_libretro_tvos.dylib.zip"
   },
@@ -435,7 +435,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/dolphin_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/dolphin_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/dolphin_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/dolphin_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/dolphin_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/dolphin_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/dolphin_libretro_tvos.dylib.zip"
   },
@@ -446,7 +446,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/dolphin_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/dolphin_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/dolphin_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/dolphin_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/dolphin_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/dolphin_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/dolphin_libretro_tvos.dylib.zip"
   },
@@ -457,7 +457,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/ppsspp_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/ppsspp_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/ppsspp_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/ppsspp_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/ppsspp_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/ppsspp_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/ppsspp_libretro_tvos.dylib.zip"
   },
@@ -468,7 +468,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mame_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mame_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mame_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mame_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mame_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mame_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mame_libretro_tvos.dylib.zip"
   },
@@ -479,7 +479,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_vb_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_vb_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_vb_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_vb_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_vb_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_vb_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_vb_libretro_tvos.dylib.zip"
   },
@@ -490,7 +490,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/vecx_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/vecx_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/vecx_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/vecx_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/vecx_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/vecx_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/vecx_libretro_tvos.dylib.zip"
   },
@@ -501,7 +501,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/_libretro_tvos.dylib.zip"
   },
@@ -512,7 +512,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/yabause_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/yabause_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/yabause_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/yabause_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/yabause_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/yabause_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/yabause_libretro_tvos.dylib.zip"
   },
@@ -523,7 +523,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pcsx2_SW_libretro_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pcsx2_SW_libretro_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/pcsx2_SW_libretro_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/pcsx2_SW_libretro_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/pcsx2_SW_libretro_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pcsx2_SW_libretro_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pcsx2_SW_libretro_libretro_tvos.dylib.zip"
   },
@@ -534,7 +534,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/freeintv_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/freeintv_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/freeintv_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/freeintv_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/freeintv_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/freeintv_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/freeintv_libretro_tvos.dylib.zip"
   },
@@ -545,7 +545,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/_libretro_tvos.dylib.zip"
   },
@@ -556,7 +556,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/_libretro_tvos.dylib.zip"
   },
@@ -567,7 +567,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mupen64plus_next_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mupen64plus_next_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mupen64plus_next_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mupen64plus_next_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mupen64plus_next_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mupen64plus_next_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mupen64plus_next_libretro_tvos.dylib.zip"
   },
@@ -578,7 +578,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/flycast_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/flycast_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/flycast_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/flycast_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/flycast_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/flycast_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/flycast_libretro_tvos.dylib.zip"
   },
@@ -589,7 +589,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/flycast_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/flycast_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/flycast_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/flycast_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/flycast_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/flycast_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/flycast_libretro_tvos.dylib.zip"
   },
@@ -600,7 +600,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/flycast_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/flycast_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/flycast_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/flycast_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/flycast_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/flycast_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/flycast_libretro_tvos.dylib.zip"
   },
@@ -611,7 +611,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/picodrive_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/picodrive_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/picodrive_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/picodrive_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/picodrive_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/picodrive_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/picodrive_libretro_tvos.dylib.zip"
   },
@@ -622,7 +622,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/ppsspp_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/ppsspp_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/ppsspp_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/ppsspp_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/ppsspp_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/ppsspp_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/ppsspp_libretro_tvos.dylib.zip"
   },
@@ -633,7 +633,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pcsx_rearmed_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pcsx_rearmed_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/pcsx_rearmed_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/pcsx_rearmed_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/pcsx_rearmed_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pcsx_rearmed_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pcsx_rearmed_libretro_tvos.dylib.zip"
   },
@@ -644,7 +644,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/desmume_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/desmume_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/desmume_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/desmume_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/desmume_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/desmume_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/desmume_libretro_tvos.dylib.zip"
   },
@@ -655,7 +655,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/hatari_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/hatari_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/hatari_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/hatari_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/hatari_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/hatari_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/hatari_libretro_tvos.dylib.zip"
   },
@@ -666,7 +666,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mame2003_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mame2003_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mame2003_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mame2003_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mame2003_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mame2003_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mame2003_libretro_tvos.dylib.zip"
   },
@@ -677,7 +677,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mame2010_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mame2010_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mame2010_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mame2010_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mame2010_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mame2010_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mame2010_libretro_tvos.dylib.zip"
   },
@@ -688,7 +688,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mame2015_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mame2015_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mame2015_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mame2015_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mame2015_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mame2015_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mame2015_libretro_tvos.dylib.zip"
   },
@@ -699,7 +699,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mame2016_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mame2016_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mame2016_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mame2016_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mame2016_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mame2016_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mame2016_libretro_tvos.dylib.zip"
   },
@@ -710,7 +710,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mednafen_saturn_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mednafen_saturn_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/mednafen_saturn_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/mednafen_saturn_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/mednafen_saturn_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mednafen_saturn_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mednafen_saturn_libretro_tvos.dylib.zip"
   },
@@ -721,7 +721,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/yabasanshiro_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/yabasanshiro_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/yabasanshiro_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/yabasanshiro_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/yabasanshiro_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/yabasanshiro_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/yabasanshiro_libretro_tvos.dylib.zip"
   },
@@ -732,7 +732,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pcsx2_libretro_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pcsx2_libretro_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/pcsx2_libretro_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/pcsx2_libretro_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/pcsx2_libretro_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pcsx2_libretro_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pcsx2_libretro_libretro_tvos.dylib.zip"
   },
@@ -743,7 +743,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pcsx2_Tex_libretro_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pcsx2_Tex_libretro_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/pcsx2_Tex_libretro_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/pcsx2_Tex_libretro_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/pcsx2_Tex_libretro_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pcsx2_Tex_libretro_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pcsx2_Tex_libretro_libretro_tvos.dylib.zip"
   },
@@ -754,7 +754,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/parallel_n64_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/parallel_n64_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/parallel_n64_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/parallel_n64_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/parallel_n64_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/parallel_n64_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/parallel_n64_libretro_tvos.dylib.zip"
   },
@@ -765,7 +765,7 @@
     "android_arm64": "https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/WS_2xscp_libretro_android.so.zip",
     "android_armeabi": "https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/WS_2xscp_libretro_android.so.zip",
     "android_x86_64": "https://buildbot.libretro.com/nightly/android/latest/x86_64/WS_2xscp_libretro_android.so.zip",
-    "android_x86": "https://buildbot.libretro.com/nightly/android/latestx86/WS_2xscp_libretro_android.so.zip",
+    "android_x86": "https://buildbot.libretro.com/nightly/android/latest/x86/WS_2xscp_libretro_android.so.zip",
     "ios_tvos": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/WS_2xscp_libretro_tvos.dylib.zip",
     "ios_arm64": "https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/WS_2xscp_libretro_tvos.dylib.zip"
   }
