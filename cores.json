@@ -3735,7 +3735,7 @@
     "Version": "2022 b7d96e7",
     "Extension": [],
     "NativeName": "YJpwbSpu19M=",
-    "Plataforma": "UIa+W3SfTF3n0n2SYNntlA==",
+    "Plataforma": "K7bSH5oGw+axyynnpbR3Dg==",
     "ExtensionString": "cue|chd",
     "TotalRoms": 0
   },
@@ -3845,7 +3845,7 @@
     "Version": "v1.29.0.0 00c7cb8",
     "Extension": [],
     "NativeName": "d8E5a1jAha3c9KKdRlVI5w==",
-    "Plataforma": "CrBQGJYP4jzOEeKrNV337Qfa2SQzfcaw",
+    "Plataforma": "CrBQGJYP4jxmnurXYrozF/dS10Chng8H",
     "ExtensionString": "ngp|ngc|ngpc|npc",
     "TotalRoms": 0
   },
@@ -3955,8 +3955,118 @@
     "Version": "v1.29.0.0 00c7cb8",
     "Extension": [],
     "NativeName": "d8E5a1jAha3c9KKdRlVI5w==",
-    "Plataforma": "CrBQGJYP4jwQnNK/zDlw/7guWVj1XMCF",
+    "Plataforma": "CrBQGJYP4jzCx+C7xFKV469aBbGm427e",
     "ExtensionString": "ngp|ngc|ngpc|npc",
+    "TotalRoms": 0
+  },
+  {
+    "EspecialName": "android=gles3",
+    "joymask": [
+      {
+        "libretro_id": 0,
+        "device_id": 0
+      },
+      {
+        "libretro_id": 1,
+        "device_id": 1
+      },
+      {
+        "libretro_id": 2,
+        "device_id": 2
+      },
+      {
+        "libretro_id": 3,
+        "device_id": 3
+      },
+      {
+        "libretro_id": 4,
+        "device_id": 4
+      },
+      {
+        "libretro_id": 5,
+        "device_id": 5
+      },
+      {
+        "libretro_id": 6,
+        "device_id": 6
+      },
+      {
+        "libretro_id": 7,
+        "device_id": 7
+      },
+      {
+        "libretro_id": 8,
+        "device_id": 8
+      },
+      {
+        "libretro_id": 9,
+        "device_id": 9
+      },
+      {
+        "libretro_id": 10,
+        "device_id": 10
+      },
+      {
+        "libretro_id": 11,
+        "device_id": 11
+      },
+      {
+        "libretro_id": 12,
+        "device_id": 12
+      },
+      {
+        "libretro_id": 13,
+        "device_id": 13
+      },
+      {
+        "libretro_id": 14,
+        "device_id": 14
+      },
+      {
+        "libretro_id": 15,
+        "device_id": 15
+      }
+    ],
+    "systemurls": [
+      {
+        "plataforma": "windows",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQS0usvYn8yj03IfzNau0Snwuq/L655fyproRrCfEavYrjuVz7go2Ok"
+      },
+      {
+        "plataforma": "linux",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VrpI62OWWAsx88VVbE687Qn29Y9BzggqriMxzfqzpEW4nN0lwgLX2BBsKH3RIE06I="
+      },
+      {
+        "plataforma": "android_arm64",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryIb0D6ADWRpPoMF2zoMfZtJIA9DnzpgAhDP0gyWx2Q8qi+cDN7MQXfw80y/4HpOs="
+      },
+      {
+        "plataforma": "android_armeabi",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl5GyTmGOIo0Gze2yK3xQDud4I5DVA6ryeikXDkJzcNLrvMBA69N/WIJIs2SJAgQUnQ=="
+      },
+      {
+        "plataforma": "android_x86_64",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbHyb7OxqqKLF03IfzNau0Snwuq/L655fypwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
+      },
+      {
+        "plataforma": "android_x86",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2YLiVdvJNoCjVOtb56RAvd57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
+      },
+      {
+        "plataforma": "ios_tvos",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe//luQzKLQdDBAJzzCl7s5aDDbYC6ukOLVteviafX8E15R8QmXa0H1hnV/qcDz93nE="
+      },
+      {
+        "plataforma": "ios_arm64",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhrpI62OWWAsx88VVbE687Qn29Y9Bzggqp2phSpOhVOdWjSo6VwB3qzTIUqPVb3yJE="
+      }
+    ],
+    "Name": "6ctyqkHBMTe9Mno5DF8m/IhLbUZ7z+oM",
+    "Version": "2.3-GLES3 cf32791",
+    "Extension": [],
+    "NativeName": "mC4lXbyTaAo1TrW+ekQL3YhLbUZ7z+oM",
+    "Plataforma": "JqIqBcA7/non3RB68lGlfg==",
+    "ExtensionString": "n64|v64|z64|bin|u1",
     "TotalRoms": 0
   },
   {
@@ -5240,41 +5350,41 @@
     "systemurls": [
       {
         "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDSfmEoPEXfI1bMbCWvkcNmpIQz9IMlsdkMDNaLLxq/bVIhLbUZ7z+oM"
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQ/DXXC5rcVOck1UuqlR/HVIQz9IMlsdkMDNaLLxq/bVIhLbUZ7z+oM"
       },
       {
         "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WdkBhI76KFdgKB2AHtjhkg57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3Uq7GiUzfKsxUc9VdUkTlY857U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
       },
       {
         "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujojYEeoZwhvHIeckHJuwoZDRIjLjo1QXcI+YxHRyzaNOZpCj+/5je9lZweHjJns46k="
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujqV/jlKQRS6FdPN0d+rftz4xkrNijz/UiY+YxHRyzaNOZpCj+/5je9lZweHjJns46k="
       },
       {
         "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl95lqZb5LC2oXcjhhAu9WHJwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl+8CoaxRvs+iqoSovVejEaRwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
       },
       {
         "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbGdu7vlmMidNbMbCWvkcNmpIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbHNvkk8yaIBcck1UuqlR/HVIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
       },
       {
         "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d3dTvVPsQsnPPR2147ZKzAgKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d0yxrcbrdO7kGCdZUsFJkGfKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
       },
       {
         "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe8We9Yn+7Fu8r8Tx6j0JzveJvjJF+tAhrur9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe/JlfPdarG8yrnsWhk1ml0lncrdbSc5udOr9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
       },
       {
         "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjidkBhI76KFdgKB2AHtjhkg57U946dBXzV8UjiXAvWLOJyGz2dB+64QiEttRnvP6gw="
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjgq7GiUzfKsxUc9VdUkTlY857U946dBXzV8UjiXAvWLOJyGz2dB+64QiEttRnvP6gw="
       }
     ],
     "Name": "ECnKbmIm+oNY8RlwlpoW5Q==",
     "Version": "",
     "Extension": [],
-    "NativeName": "3U71T7ELJzwXtLFBZDpNrA==",
+    "NativeName": "Msa3G63Tu5BY8RlwlpoW5Q==",
     "Plataforma": "OOLLPUtWfUFY8RlwlpoW5Q==",
     "ExtensionString": "exe|psexe|cue|bin|iso|chd|pbp|ecm|mds|psf|m3u",
     "TotalRoms": 0
@@ -6746,7 +6856,7 @@
       },
       {
         "libretro_id": 8,
-        "device_id": 0
+        "device_id": 8
       },
       {
         "libretro_id": 9,
