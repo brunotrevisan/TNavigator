@@ -391,44 +391,11 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDS1aOzDMmYh65pJkH7cyF4iawjRjbnUxCBnB4eMmezjqQ=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WAAWXa0FMTX8sfvrjVIckpPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzGUTzd4DbJfRcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2wbXj6yqcQ2bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH9jdCbB7npoppJkH7cyF4iKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2OE1vIp77H2eIzHN+rOkRbic3SXCAtfYEGwofdEgTTog=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEXXRFxUDm3LkGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      }
-    ],
-    "Name": "uLE8mtzeqyBgLlQagnWiOQ==",
+    "systemurls": [],
+    "Name": "uLE8mtzeqyDN2l/w5NHzsw==",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
-    "NativeName": "KtdMt8YaACo=",
+    "NativeName": "RThf1on5lt0=",
     "Plataforma": "CGYkUfoDbvKyV9nkKYwY1g==",
     "ExtensionString": "zip|7z|cue|ccd",
     "TotalRoms": 0
