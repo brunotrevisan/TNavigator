@@ -3,68 +3,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -113,68 +65,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -223,68 +127,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -333,68 +189,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -443,68 +251,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -553,68 +313,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -663,68 +375,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -773,68 +437,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -883,68 +499,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -993,68 +561,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1103,68 +623,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1213,68 +685,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1323,68 +747,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1433,68 +809,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1543,68 +871,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1653,68 +933,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1763,68 +995,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1873,68 +1057,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -1983,68 +1119,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2093,68 +1181,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2203,68 +1243,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2313,68 +1305,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2423,68 +1367,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2533,68 +1429,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2643,68 +1491,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2753,68 +1553,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2863,68 +1615,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -2973,68 +1677,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3083,68 +1739,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3193,68 +1801,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3303,68 +1863,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3413,68 +1925,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3523,68 +1987,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3633,68 +2049,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3743,68 +2111,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3853,68 +2173,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -3963,68 +2235,20 @@
     "EspecialName": "android=gles3",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4073,68 +2297,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4183,68 +2359,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4293,68 +2421,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4403,68 +2483,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4513,68 +2545,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4623,68 +2607,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4733,68 +2669,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4843,68 +2731,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -4953,68 +2793,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5063,68 +2855,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5173,68 +2917,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5283,68 +2979,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5393,68 +3041,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5503,68 +3103,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5613,68 +3165,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5723,68 +3227,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5833,68 +3289,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -5943,68 +3351,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6053,68 +3413,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6163,68 +3475,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6273,68 +3537,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6383,68 +3599,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6493,68 +3661,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6603,68 +3723,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6713,68 +3785,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6823,68 +3847,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 8
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -6933,68 +3909,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -7043,68 +3971,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -7153,68 +4033,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
@@ -7263,68 +4095,20 @@
     "EspecialName": "",
     "joymask": [
       {
-        "libretro_id": 0,
-        "device_id": 0
-      },
-      {
-        "libretro_id": 1,
-        "device_id": 1
-      },
-      {
-        "libretro_id": 2,
-        "device_id": 2
-      },
-      {
-        "libretro_id": 3,
-        "device_id": 3
-      },
-      {
-        "libretro_id": 4,
-        "device_id": 4
-      },
-      {
-        "libretro_id": 5,
-        "device_id": 5
-      },
-      {
-        "libretro_id": 6,
-        "device_id": 6
-      },
-      {
-        "libretro_id": 7,
-        "device_id": 7
-      },
-      {
         "libretro_id": 8,
         "device_id": 8
+      },
+      {
+        "libretro_id": 0,
+        "device_id": 0
       },
       {
         "libretro_id": 9,
         "device_id": 9
       },
       {
-        "libretro_id": 10,
-        "device_id": 10
-      },
-      {
-        "libretro_id": 11,
-        "device_id": 11
-      },
-      {
-        "libretro_id": 12,
-        "device_id": 12
-      },
-      {
-        "libretro_id": 13,
-        "device_id": 13
-      },
-      {
-        "libretro_id": 14,
-        "device_id": 14
-      },
-      {
-        "libretro_id": 15,
-        "device_id": 15
+        "libretro_id": 1,
+        "device_id": 1
       }
     ],
     "systemurls": [
