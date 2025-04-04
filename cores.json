@@ -193,44 +193,11 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDSkEP9QFZghlWlAPp4Oxp+uGjMzIhctL5hMnbk267zmSA=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3XRLy9rLQaWirLxQjHVByhqcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzHY4dszJJ+jvbXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl3tnIJIr4U2z57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH8QJruIrRlnWlAPp4Oxp+uKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2VsT5QJPjDQCEM/SDJbHZDyqL5wM3sxBd/DzTL/gek6w=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEQobdzpBaXL8dqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjRLy9rLQaWirLxQjHVByhq+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
-      }
-    ],
-    "Name": "uLE8mtzeqyDN2l/w5NHzsw==",
+    "systemurls": [],
+    "Name": "uLE8mtzeqyBgLlQagnWiOQ==",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
-    "NativeName": "RThf1on5lt0=",
+    "NativeName": "KtdMt8YaACo=",
     "Plataforma": "CGYkUfoDbvKyV9nkKYwY1g==",
     "ExtensionString": "zip|7z|cue|ccd",
     "TotalRoms": 0
