@@ -3848,11 +3848,11 @@
     "joymask": [
       {
         "libretro_id": 8,
-        "device_id": 8
+        "device_id": 0
       },
       {
         "libretro_id": 0,
-        "device_id": 0
+        "device_id": 8
       },
       {
         "libretro_id": 9,
