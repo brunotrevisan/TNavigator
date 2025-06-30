@@ -511,7 +511,40 @@
         "device_id": 1
       }
     ],
-    "systemurls": [],
+    "systemurls": [
+      {
+        "plataforma": "windows",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDTy2vKLP6KUiHF/KdzeluPQ9D6PL1HqqsJE3EB7albOWA=="
+      },
+      {
+        "plataforma": "linux",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WmuNFnSyrEkdJ8sdpg1DS3bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
+      },
+      {
+        "plataforma": "android_arm64",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujpJyUjLNZmpPPeNnhl6I5rl57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
+      },
+      {
+        "plataforma": "android_armeabi",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2uG4MPrCuFKJcIo5Ceq2Uk+YxHRyzaNOZpCj+/5je9lZweHjJns46k="
+      },
+      {
+        "plataforma": "android_x86_64",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbEtr/cW22QTM3F/KdzeluPQ4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
+      },
+      {
+        "plataforma": "android_x86",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d1UKydgeBETIfDI7pqHuOZrKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
+      },
+      {
+        "plataforma": "ios_tvos",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe8OUzyefW2d0FhTwSBZ2Vm9IQz9IMlsdkPq/hmvDTnGazhYH6IHiCyR"
+      },
+      {
+        "plataforma": "ios_arm64",
+        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjimuNFnSyrEkdJ8sdpg1DS3bXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
+      }
+    ],
     "Name": "iHCoTkecBnPISeaF/mqauQ==",
     "Version": "1.3e 2f8bf38",
     "Extension": [],
@@ -1821,19 +1854,19 @@
     "joymask": [
       {
         "libretro_id": 8,
-        "device_id": 8
-      },
-      {
-        "libretro_id": 0,
         "device_id": 0
       },
       {
+        "libretro_id": 0,
+        "device_id": 8
+      },
+      {
         "libretro_id": 9,
-        "device_id": 9
+        "device_id": 1
       },
       {
         "libretro_id": 1,
-        "device_id": 1
+        "device_id": 9
       }
     ],
     "systemurls": [
