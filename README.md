@@ -35,4 +35,35 @@ https://aka.ms/activatexbox
  
 6 – Na página acessada através do link anterior, no canto inferior direito busque pela opção Xbox development consoles e abra a aba, onde você  deve buscar pelo sinal de + clicar e digitar o código de ativação fornecido pelo console na etapa 4. Logo após digitar o código no site da MIcrosoft o seu Xbox ativará o modo de desenvolvedor.
  
+Como instalar o Tnavigator no modo desenvolvedor:
+
+1 – Baixe o Tnavigator no seu PC pelo seguinte link:
+
+https://tgameseapps.net/tndev/
+
+Baixe o Tnavigator e o arquivo chamado VClibs na aba dawnload do link mencionado acima.
+
+2 – Inicie o seu Xbox em modo desenvolvedor:
+
+ 
+
+Digite no seu navegador o endereço de IP que aparece no canto inferior direito da tela, conforme imagem acima.
+
+Após digitar o endereço de IP indicado pelo seu Xbox, aparecerá a seguinte janela no seu navegador:
+
+ 
+
+Clique em avançado e continue no endereço marcado como não seguro.
+
+ 
+
+Coloque o login e senha escolhido anteriormente em seu Xbox e entre na seguinte página:
+
+ 
+Clique em Add abaixo de My games & apps e a seguinte janela será aberta:
+ 
+Clique em escolher arquivo e selecione o app baixado em seu PC do Tnavigator, após fazer isso, clique em Next.
+Após clicar em Next, clique em escolher arquivo e selecione a dependência chamada VClibs já baixada em seu PC.
+Logo após selecionar o arquivo VClibs aperte o botão start e aguarde o fim da instalação do Tnavigator que aparecerá na sua lista de apps instalados no modo dev.
+ 
 
