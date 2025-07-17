@@ -206,7 +206,80 @@
       }
     ],
     "systemurls": [],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "neogeo.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "neocdz.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "decocass.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "isgsm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "midssio.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "nmk004.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "pgm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "skns.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ym2608.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "cchip.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bubsys.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc69.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc70.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc75.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spectrum.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spec128.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "channelf.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "fbneo",
+        "Type": 1
+      }
+    ],
     "Name": "FinalBurn Neo",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
@@ -299,7 +372,80 @@
       }
     ],
     "systemurls": [],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "neogeo.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "neocdz.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "decocass.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "isgsm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "midssio.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "nmk004.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "pgm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "skns.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ym2608.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "cchip.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bubsys.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc69.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc70.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc75.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spectrum.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spec128.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "channelf.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "fbneo",
+        "Type": 1
+      }
+    ],
     "Name": "FinalBurn Neo",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
@@ -329,7 +475,80 @@
       }
     ],
     "systemurls": [],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "neogeo.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "neocdz.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "decocass.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "isgsm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "midssio.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "nmk004.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "pgm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "skns.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ym2608.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "cchip.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bubsys.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc69.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc70.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc75.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spectrum.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spec128.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "channelf.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "fbneo",
+        "Type": 1
+      }
+    ],
     "Name": "FinalBurn Neo",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
@@ -359,7 +578,80 @@
       }
     ],
     "systemurls": [],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "neogeo.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "neocdz.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "decocass.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "isgsm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "midssio.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "nmk004.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "pgm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "skns.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ym2608.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "cchip.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bubsys.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc69.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc70.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc75.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spectrum.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spec128.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "channelf.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "fbneo",
+        "Type": 1
+      }
+    ],
     "Name": "FinalBurn Neo",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
@@ -389,7 +681,80 @@
       }
     ],
     "systemurls": [],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "neogeo.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "neocdz.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "decocass.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "isgsm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "midssio.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "nmk004.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "pgm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "skns.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ym2608.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "cchip.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bubsys.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc69.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc70.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc75.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spectrum.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spec128.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "channelf.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "fbneo",
+        "Type": 1
+      }
+    ],
     "Name": "FinalBurn Neo",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
@@ -482,7 +847,80 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "neogeo.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "neocdz.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "decocass.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "isgsm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "midssio.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "nmk004.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "pgm.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "skns.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ym2608.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "cchip.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bubsys.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc69.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc70.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "namcoc75.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spectrum.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "spec128.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "channelf.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "fbneo",
+        "Type": 1
+      }
+    ],
     "Name": "FinalBurn Neo",
     "Version": "v1.0.0.03  a12455a",
     "Extension": [],
