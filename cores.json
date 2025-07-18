@@ -2480,7 +2480,16 @@
       }
     ],
     "systemurls": [],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "OpenBor",
+        "Type": 1
+      },
+      {
+        "Nome": "PPSSPP",
+        "Type": 1
+      }
+    ],
     "Name": "PPSSPP",
     "Version": "c9dee44",
     "Extension": [],
@@ -3137,7 +3146,16 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjitABm7z3YORtHI7+nY73UuGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "OpenBor",
+        "Type": 1
+      },
+      {
+        "Nome": "PPSSPP",
+        "Type": 1
+      }
+    ],
     "Name": "PPSSPP",
     "Version": "c9dee44",
     "Extension": [],
