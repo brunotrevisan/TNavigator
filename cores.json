@@ -82,41 +82,45 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDTzFOlP1fwTPp9qSrPfjxN7fHhD3cVEApAaMzMiFy0vmEyduTbrvOZI"
+        "Nome": "genesis_plus_gx_libretro.zip",
+        "Type": 0
       },
       {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilRwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
+        "Nome": "bios.sms",
+        "Type": 0
       },
       {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujoxkCxaoDensbMLAHoK6OMVg1Kc5FVtI45teviafX8E1+op7c96qam9afXX7VXEowY="
+        "Nome": "bios_CD_E.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl4SuBFFTdpKobBp7mhOJMk/ntT3jp0FfNR/adZ897lFuZ11D6YoUNhOIS21Ge8/qDA=="
+        "Nome": "bios_CD_J.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFjFOPRxOoYXJ9qSrPfjxN7fHhD3cVEApAqR74kGGXTobfHpsKYIfT7eacR06jdrgo="
+        "Nome": "bios_CD_U.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2rL6JAshGLryj15vrOpLdlIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
+        "Nome": "bios_MD.bin",
+        "Type": 0
       },
       {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+QtxRNX9hABopmCCobTBF8cqF2Tenc8X92phSpOhVOdWjSo6VwB3qzTIUqPVb3yJE="
+        "Nome": "bios_U.sms",
+        "Type": 0
       },
       {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
+        "Nome": "bios_E.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_J.sms",
+        "Type": 0
       }
     ],
-    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -145,41 +149,45 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDTzFOlP1fwTPp9qSrPfjxN7fHhD3cVEApAaMzMiFy0vmEyduTbrvOZI"
+        "Nome": "genesis_plus_gx_libretro.zip",
+        "Type": 0
       },
       {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilRwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
+        "Nome": "bios.sms",
+        "Type": 0
       },
       {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujoxkCxaoDensbMLAHoK6OMVg1Kc5FVtI45teviafX8E1+op7c96qam9afXX7VXEowY="
+        "Nome": "bios_CD_E.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl4SuBFFTdpKobBp7mhOJMk/ntT3jp0FfNR/adZ897lFuZ11D6YoUNhOIS21Ge8/qDA=="
+        "Nome": "bios_CD_J.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFjFOPRxOoYXJ9qSrPfjxN7fHhD3cVEApAqR74kGGXTobfHpsKYIfT7eacR06jdrgo="
+        "Nome": "bios_CD_U.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2rL6JAshGLryj15vrOpLdlIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
+        "Nome": "bios_MD.bin",
+        "Type": 0
       },
       {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+QtxRNX9hABopmCCobTBF8cqF2Tenc8X92phSpOhVOdWjSo6VwB3qzTIUqPVb3yJE="
+        "Nome": "bios_U.sms",
+        "Type": 0
       },
       {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
+        "Nome": "bios_E.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_J.sms",
+        "Type": 0
       }
     ],
-    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -271,40 +279,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rwg0Mf4iLzfNvvfI9wUjGoyr42I5tcmaipxTyZm7+iR/DU0G0H0bO8L9YZeO+fiVwRKBy59EIc8cz07ufvrjc35LeXXZROPS7VJUt8hJmvoXee1PeOnQV81BsKH3RIE06I="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WAAWXa0FMTX8sfvrjVIckpPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzGUTzd4DbJfRcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2wbXj6yqcQ2bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH9jdCbB7npoppJkH7cyF4iKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2OE1vIp77H2eIzHN+rOkRbic3SXCAtfYEGwofdEgTTog=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEXXRFxUDm3LkGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      }
-    ],
+    "systemurls": [],
     "Bios": [
       {
         "Nome": "neogeo.zip",
@@ -441,7 +416,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ9mfK1jF1YUwbLuvSBvN3aq/hqI46UtGr9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "mednafen_gba_libretro.zip",
+        "Type": 0
+      }
+    ],
     "Name": "Beetle GBA",
     "Version": "v0.9.36 3818257",
     "Extension": [],
@@ -470,40 +450,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rwg0Mf4iLzfNvvfI9wUjGoyr42I5tcmaipxTyZm7+iR/DU0G0H0bO8L9YZeO+fiVwRKBy59EIc8cz07ufvrjc35LeXXZROPS7VJUt8hJmvoXee1PeOnQV81BsKH3RIE06I="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WAAWXa0FMTX8sfvrjVIckpPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzGUTzd4DbJfRcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2wbXj6yqcQ2bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH9jdCbB7npoppJkH7cyF4iKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2OE1vIp77H2eIzHN+rOkRbic3SXCAtfYEGwofdEgTTog=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEXXRFxUDm3LkGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      }
-    ],
+    "systemurls": [],
     "Bios": [
       {
         "Nome": "neogeo.zip",
@@ -606,40 +553,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rwg0Mf4iLzfNvvfI9wUjGoyr42I5tcmaipxTyZm7+iR/DU0G0H0bO8L9YZeO+fiVwRKBy59EIc8cz07ufvrjc35LeXXZROPS7VJUt8hJmvoXee1PeOnQV81BsKH3RIE06I="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WAAWXa0FMTX8sfvrjVIckpPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzGUTzd4DbJfRcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2wbXj6yqcQ2bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH9jdCbB7npoppJkH7cyF4iKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2OE1vIp77H2eIzHN+rOkRbic3SXCAtfYEGwofdEgTTog=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEXXRFxUDm3LkGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      }
-    ],
+    "systemurls": [],
     "Bios": [
       {
         "Nome": "neogeo.zip",
@@ -742,40 +656,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rwg0Mf4iLzfNvvfI9wUjGoyr42I5tcmaipxTyZm7+iR/DU0G0H0bO8L9YZeO+fiVwRKBy59EIc8cz07ufvrjc35LeXXZROPS7VJUt8hJmvoXee1PeOnQV81BsKH3RIE06I="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WAAWXa0FMTX8sfvrjVIckpPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzGUTzd4DbJfRcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2wbXj6yqcQ2bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH9jdCbB7npoppJkH7cyF4iKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2OE1vIp77H2eIzHN+rOkRbic3SXCAtfYEGwofdEgTTog=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEXXRFxUDm3LkGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      }
-    ],
+    "systemurls": [],
     "Bios": [
       {
         "Nome": "neogeo.zip",
@@ -878,40 +759,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rwg0Mf4iLzfNvvfI9wUjGoyr42I5tcmaipxTyZm7+iR/DU0G0H0bO8L9YZeO+fiVwRKBy59EIc8cz07ufvrjc35LeXXZROPS7VJUt8hJmvoXee1PeOnQV81BsKH3RIE06I="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WAAWXa0FMTX8sfvrjVIckpPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzGUTzd4DbJfRcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl2wbXj6yqcQ2bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbH9jdCbB7npoppJkH7cyF4iKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2OE1vIp77H2eIzHN+rOkRbic3SXCAtfYEGwofdEgTTog=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+B3M3yOsmcEXXRFxUDm3LkGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiAAWXa0FMTX8sfvrjVIckpHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      }
-    ],
+    "systemurls": [],
     "Bios": [
       {
         "Nome": "neogeo.zip",
@@ -1014,41 +862,45 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDTzFOlP1fwTPp9qSrPfjxN7fHhD3cVEApAaMzMiFy0vmEyduTbrvOZI"
+        "Nome": "genesis_plus_gx_libretro.zip",
+        "Type": 0
       },
       {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilRwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
+        "Nome": "bios.sms",
+        "Type": 0
       },
       {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujoxkCxaoDensbMLAHoK6OMVg1Kc5FVtI45teviafX8E1+op7c96qam9afXX7VXEowY="
+        "Nome": "bios_CD_E.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl4SuBFFTdpKobBp7mhOJMk/ntT3jp0FfNR/adZ897lFuZ11D6YoUNhOIS21Ge8/qDA=="
+        "Nome": "bios_CD_J.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFjFOPRxOoYXJ9qSrPfjxN7fHhD3cVEApAqR74kGGXTobfHpsKYIfT7eacR06jdrgo="
+        "Nome": "bios_CD_U.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2rL6JAshGLryj15vrOpLdlIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
+        "Nome": "bios_MD.bin",
+        "Type": 0
       },
       {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+QtxRNX9hABopmCCobTBF8cqF2Tenc8X92phSpOhVOdWjSo6VwB3qzTIUqPVb3yJE="
+        "Nome": "bios_U.sms",
+        "Type": 0
       },
       {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
+        "Nome": "bios_E.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_J.sms",
+        "Type": 0
       }
     ],
-    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -1247,7 +1099,16 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjimuNFnSyrEkdJ8sdpg1DS3bXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "prosystem_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "7800 BIOS (U).rom",
+        "Type": 0
+      }
+    ],
     "Name": "ProSystem",
     "Version": "1.3e 2f8bf38",
     "Extension": [],
@@ -1339,41 +1200,45 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDTzFOlP1fwTPp9qSrPfjxN7fHhD3cVEApAaMzMiFy0vmEyduTbrvOZI"
+        "Nome": "genesis_plus_gx_libretro.zip",
+        "Type": 0
       },
       {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilRwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
+        "Nome": "bios.sms",
+        "Type": 0
       },
       {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujoxkCxaoDensbMLAHoK6OMVg1Kc5FVtI45teviafX8E1+op7c96qam9afXX7VXEowY="
+        "Nome": "bios_CD_E.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl4SuBFFTdpKobBp7mhOJMk/ntT3jp0FfNR/adZ897lFuZ11D6YoUNhOIS21Ge8/qDA=="
+        "Nome": "bios_CD_J.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFjFOPRxOoYXJ9qSrPfjxN7fHhD3cVEApAqR74kGGXTobfHpsKYIfT7eacR06jdrgo="
+        "Nome": "bios_CD_U.bin",
+        "Type": 0
       },
       {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2rL6JAshGLryj15vrOpLdlIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
+        "Nome": "bios_MD.bin",
+        "Type": 0
       },
       {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe+QtxRNX9hABopmCCobTBF8cqF2Tenc8X92phSpOhVOdWjSo6VwB3qzTIUqPVb3yJE="
+        "Nome": "bios_U.sms",
+        "Type": 0
       },
       {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
+        "Nome": "bios_E.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_J.sms",
+        "Type": 0
       }
     ],
-    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -1436,7 +1301,44 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "genesis_plus_gx_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bios.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_CD_E.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_CD_J.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_CD_U.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_MD.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_U.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_E.sms",
+        "Type": 0
+      },
+      {
+        "Nome": "bios_J.sms",
+        "Type": 0
+      }
+    ],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -1465,41 +1367,13 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDSX3WryYYCVanp9OcsTlE1Y9D6PL1HqqsJE3EB7albOWA=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3XRpr4GKE2cwk1jxf8KAW+RbXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujpJyUjLNZmpPJDbVK6Dlp5D57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl3VUN4SFiW/ibyqssvAnTVk+YxHRyzaNOZpCj+/5je9lZweHjJns46k="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbHFO68KP2YAPHp9OcsTlE1Y4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d22YX+dyiVoxjq9/I1Smji3KRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe86MvuPjTG3kplmQgykXYCfIQz9IMlsdkPq/hmvDTnGazhYH6IHiCyR"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjRpr4GKE2cwk1jxf8KAW+RbXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
+        "Nome": "picodrive_libretro.zip",
+        "Type": 0
       }
     ],
-    "Bios": [],
     "Name": "PicoDrive",
     "Version": "1.97-8a0e583",
     "Extension": [],
@@ -1528,40 +1402,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQHCgBdyt/8A9+Pg757xy0G1n4rE2zGWlj0Po8vUeqqwkTcQHtqVs5Y"
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VQ9mfK1jF1YWRdAmZUj9k2vJMqQFfmOi1teviafX8E1+op7c96qam9afXX7VXEowY="
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryIb0D6ADWRu9k4CJmEzRqZYRZUre+O2PntT3jp0FfNR/adZ897lFuZ11D6YoUNhOIS21Ge8/qDA=="
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl0IJ/v1AGrEMisDO4Fhl5RVey2dH3B17Qj5jEdHLNo05mkKP7/mN72VnB4eMmezjqQ=="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbG4zDr8uRX3jd+Pg757xy0G1n4rE2zGWljiMxzfqzpEW4nN0lwgLX2BBsKH3RIE06I="
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d13wTlrWMCFrZK6CKmQpo2deCOQ1QOq8nopFw5Cc3DS67zAQOvTf1iCSLNkiQIEFJ0="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe++SrNM0y1R7Q/cVC2nlkqjE0eO/KB3Gs0hDP0gyWx2Q+r+Ga8NOcZrOFgfogeILJE="
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ9mfK1jF1YWRdAmZUj9k2vJMqQFfmOi1teviafX8E15R8QmXa0H1hnV/qcDz93nE="
-      }
-    ],
+    "systemurls": [],
     "Bios": [],
     "Name": "Beetle PCE Fast",
     "Version": "v1.31.0.0 cc248db",
@@ -1591,40 +1432,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQHCgBdyt/8A5zAPi7NUhdO+lPa8oEXtuLML1CoD6O0+XmnEdOo3a4K"
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VQ9mfK1jF1Yfh/JgK2DwcP7ZIN9G1brlcqR74kGGXTobfHpsKYIfT7eacR06jdrgo="
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryIb0D6ADWRu9k4CJmEzRqLdiknz0QDd7iMxzfqzpEW4nN0lwgLX2BBsKH3RIE06I="
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl0IJ/v1AGrEM01t4uZiKEPohDP0gyWx2Q8qi+cDN7MQXfw80y/4HpOs="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbG4zDr8uRX3jZzAPi7NUhdO+lPa8oEXtuI+YxHRyzaNOZpCj+/5je9lZweHjJns46k="
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d13wTlrWMCFrba9i+nCokelbXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe++SrNM0y1R7Z9ZVRgoAoE5LJB2ezMJ/Fb40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ9mfK1jF1Yfh/JgK2DwcP7ZIN9G1brlcZHLajQ1hHY3vXElaSS+kGeacR06jdrgo="
-      }
-    ],
+    "systemurls": [],
     "Bios": [],
     "Name": "Beetle WonderSwan",
     "Version": "v0.9.35.1 16d96f6",
@@ -1654,40 +1462,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQHCgBdyt/8AzL01AVVYs7t57U946dBXzWFirwuaA4cwEizZIkCBBSd"
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VQ9mfK1jF1YfM0znMpAmoXSewYbUUZDvQpFw5Cc3DS67zAQOvTf1iCSLNkiQIEFJ0="
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryIb0D6ADWRu9k4CJmEzRqC8lRe9u/b74qR74kGGXTobfHpsKYIfT7eacR06jdrgo="
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl0IJ/v1AGrEMa4/caUbnBfniMxzfqzpEW4nN0lwgLX2BBsKH3RIE06I="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbG4zDr8uRX3jTL01AVVYs7t57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d13wTlrWMCFrd97bumx8YjGcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe++SrNM0y1R7VHrdJrWT4r98VhDWTPgSX0eUYE+qFgzaunbWNxK0IHRZweHjJns46k="
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ9mfK1jF1YfM0znMpAmoXSewYbUUZDvSr9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
-      }
-    ],
+    "systemurls": [],
     "Bios": [],
     "Name": "Beetle NeoPop",
     "Version": "v1.29.0.0 00c7cb8",
@@ -1717,41 +1492,13 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQTS365YtH/rYpZ9jATX0xLa6EawnxGr2K47lc+4KNjpA=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3XWHnT/l0QIB2PK+Zb9rdVW4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujoxkCxaoDensfbP7ZRF2jpZIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl3Eu7KVUXkN/Or38jVKaOLcpFw5Cc3DS67zAQOvTf1iCSLNkiQIEFJ0="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFe/HC8PZ3EnIpZ9jATX0xLcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2caemcBXcMW+e1PeOnQV81H9p1nz3uUW5nXUPpihQ2E4hLbUZ7z+oM"
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe8ZGSnio390IYooHicrR/OsbXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjWHnT/l0QIB2PK+Zb9rdVWdqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
+        "Nome": "gambatte_libretro.zip",
+        "Type": 0
       }
     ],
-    "Bios": [],
     "Name": "Gambatte",
     "Version": "v0.5.0-netlink 7e02df6",
     "Extension": [],
@@ -1843,40 +1590,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQHCgBdyt/8A/oEdEPcoFbOzkUaxJV320ZrCNGNudTEIGcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VQ9mfK1jF1YWRdAmZUj9k2dzWArSoLPKY+YxHRyzaNOZpCj+/5je9lZweHjJns46k="
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryIb0D6ADWRu9k4CJmEzRqYMknibFv2etwCyNq7MOOwh1sxkTU9RU4TJ25Nuu85kg="
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl0IJ/v1AGrEMsSWFAa4ec1FteviafX8E1+op7c96qam9afXX7VXEowY="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbG4zDr8uRX3jfoEdEPcoFbOzkUaxJV320YpFw5Cc3DS67zAQOvTf1iCSLNkiQIEFJ0="
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d13wTlrWMCFrRjxiMDLs9Ga4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe++SrNM0y1R7Q/cVC2nlkqjtqPBx4MFbKMZHLajQ1hHY3vXElaSS+kGeacR06jdrgo="
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ9mfK1jF1YWRdAmZUj9k2dzWArSoLPKYeUYE+qFgzaunbWNxK0IHRZweHjJns46k="
-      }
-    ],
+    "systemurls": [],
     "Bios": [],
     "Name": "Beetle PC-FX",
     "Version": "v0.9.36.5 08632fc",
@@ -1940,7 +1654,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjgq7GiUzfKsxUc9VdUkTlY857U946dBXzV8UjiXAvWLOJyGz2dB+64QiEttRnvP6gw="
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "swanstation_libretro.zip",
+        "Type": 0
+      }
+    ],
     "Name": "SwanStation",
     "Version": "",
     "Extension": [],
@@ -2066,7 +1785,16 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjixsydjIxHKR873aWtWb8/8HlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "handy_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "lynxboot.img",
+        "Type": 0
+      }
+    ],
     "Name": "Handy",
     "Version": "0.97 517bb2d",
     "Extension": [],
@@ -2129,7 +1857,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjWHnT/l0QIB2PK+Zb9rdVWdqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "gambatte_libretro.zip",
+        "Type": 0
+      }
+    ],
     "Name": "Gambatte",
     "Version": "v0.5.0-netlink 7e02df6",
     "Extension": [],
@@ -2347,40 +2080,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDQKMEK9GEiiP+e1PeOnQV81hYq8LmgOHMBIs2SJAgQUnQ=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3W/IEt5MsZyJs5FGsSVd9tGKRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzCHHGzyhScJdKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl0RnfteRJZOI4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFiJ219d8e7+ue1PeOnQV81H9p1nz3uUW5nXUPpihQ2E4hLbUZ7z+oM"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d1s7nrwFB7/w3ALI2rsw47CHWzGRNT1FThMnbk267zmSA=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe8RzBC4e+XbEs6ItBLNV2ReHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIji/IEt5MsZyJs5FGsSVd9tGq/TmjBluR+Vm4B/VlQjEiEizZIkCBBSd"
-      }
-    ],
+    "systemurls": [],
     "Bios": [],
     "Name": "fMSX",
     "Version": "6.0 1360c9f",
@@ -2507,7 +2207,24 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjBvl/3+VDVA2P9W0ze2zGXIQz9IMlsdkPq/hmvDTnGazhYH6IHiCyR"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "gearcoleco_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "ColecoVision (Different Font).rom",
+        "Type": 0
+      },
+      {
+        "Nome": "ColecoVision (No Intro).rom",
+        "Type": 0
+      },
+      {
+        "Nome": "ColecoVision.rom",
+        "Type": 0
+      }
+    ],
     "Name": "Gearcoleco",
     "Version": "1.0.1",
     "Extension": [],
@@ -2633,7 +2350,36 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiK8Scyrzsc/mollapkponDHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "opera_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "3do_arcade_saot.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "goldstar.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "panafz1.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "panafz10.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "panafz10e-anvil.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "sanyotry.bin",
+        "Type": 0
+      }
+    ],
     "Name": "Opera",
     "Version": "1.0.0 8a49bb8",
     "Extension": [],
@@ -2759,7 +2505,32 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjieyVaWR701YkbKdZklQUkkHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "a5200_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "5200.rom",
+        "Type": 0
+      },
+      {
+        "Nome": "ATARIBAS.ROM",
+        "Type": 0
+      },
+      {
+        "Nome": "Atariosa.rom",
+        "Type": 0
+      },
+      {
+        "Nome": "ATARIOSB.ROM",
+        "Type": 0
+      },
+      {
+        "Nome": "ATARIXL.ROM",
+        "Type": 0
+      }
+    ],
     "Name": "a5200",
     "Version": "2.0.2  b8f8571",
     "Extension": [],
@@ -2885,7 +2656,24 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ4kGp5XwhM4W+u6zOu3Cm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "melonds_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bios7.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "bios9.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "firmware.bin",
+        "Type": 0
+      }
+    ],
     "Name": "melonDS",
     "Version": "0.9.3 e93ec3e",
     "Extension": [],
@@ -2899,56 +2687,28 @@
     "joymask": [
       {
         "libretro_id": 8,
-        "device_id": 8
-      },
-      {
-        "libretro_id": 0,
         "device_id": 0
       },
       {
+        "libretro_id": 0,
+        "device_id": 8
+      },
+      {
         "libretro_id": 9,
-        "device_id": 9
+        "device_id": 1
       },
       {
         "libretro_id": 1,
-        "device_id": 1
+        "device_id": 9
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDR5D8xnbv1r3Hn7gxintPT6GjMzIhctL5hMnbk267zmSA=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3U1wu/R3fJCjYoWJIxyq8oecAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryriOrQKJZiOAHtmPZmLY/bXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl1FWSp7w+b6x57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbFb6igTuszlP3n7gxintPT6Kke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d0795cEIKLSeCEM/SDJbHZDyqL5wM3sxBd/DzTL/gek6w=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe9mztRfLQeiAJq7zUELwVW+dqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjg1wu/R3fJCjYoWJIxyq8oe+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
+        "Nome": "dolphin_libretro.zip",
+        "Type": 1
       }
     ],
-    "Bios": [],
     "Name": "dolphin-emu",
     "Version": "2f4b0f7",
     "Extension": [],
@@ -2962,19 +2722,19 @@
     "joymask": [
       {
         "libretro_id": 8,
-        "device_id": 8
-      },
-      {
-        "libretro_id": 0,
         "device_id": 0
       },
       {
+        "libretro_id": 0,
+        "device_id": 8
+      },
+      {
         "libretro_id": 9,
-        "device_id": 9
+        "device_id": 1
       },
       {
         "libretro_id": 1,
-        "device_id": 1
+        "device_id": 9
       }
     ],
     "systemurls": [
@@ -3011,7 +2771,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjg1wu/R3fJCjYoWJIxyq8oe+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "dolphin_libretro.zip",
+        "Type": 1
+      }
+    ],
     "Name": "dolphin-emu",
     "Version": "2f4b0f7",
     "Extension": [],
@@ -3040,40 +2805,7 @@
         "device_id": 9
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDTvyr60LlVC0JNsI/jDSeKgzC9QqA+jtPl5pxHTqN2uCg=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3WtABm7z3YORtHI7+nY73UuKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujpJyUjLNZmpPNz3WxzWMUtV4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtlw9Zaoi214MQIQz9IMlsdkPKovnAzezEF38PNMv+B6Tr"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbHT19mw+3pLkZNsI/jDSeKgPmMR0cs2jTmaQo/v+Y3vZWcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d3qkCo4aOhfRm16+Jp9fwTX6intz3qpqb1p9dftVcSjBg=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe8UOrzboRwCOoc7ZRFRU8IY+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjitABm7z3YORtHI7+nY73UuGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
-      }
-    ],
+    "systemurls": [],
     "Bios": [
       {
         "Nome": "OpenBor",
@@ -3081,6 +2813,10 @@
       },
       {
         "Nome": "PPSSPP",
+        "Type": 1
+      },
+      {
+        "Nome": "ppsspp_libretro.zip",
         "Type": 1
       }
     ],
@@ -3112,40 +2848,7 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
-      {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDSWQ6T6AQ/me+e1PeOnQV81hYq8LmgOHMBIs2SJAgQUnQ=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3VLE4AARYnxQjq9/I1Smji3KRcOQnNw0uu8wEDr039YgkizZIkCBBSd"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujryIb0D6ADWRvQYzB2DsjBkKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtl1fo83yCPS2g4jMc36s6RFuJzdJcIC19gQbCh90SBNOi"
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbHco0+3D3Us2ee1PeOnQV81H9p1nz3uUW5nXUPpihQ2E4hLbUZ7z+oM"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d3xSDyxkr0S+3ALI2rsw47CHWzGRNT1FThMnbk267zmSA=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe/YeOO5s+BiIgYvUUQrUFk2HlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhLE4AARYnxQjq9/I1Smji3q/TmjBluR+Vm4B/VlQjEiEizZIkCBBSd"
-      }
-    ],
+    "systemurls": [],
     "Bios": [],
     "Name": "MAME",
     "Version": "0.251",
@@ -3398,7 +3101,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiqvfeSRRRrn9n5DiKOJcb0HKKJpmPSgjBteviafX8E15R8QmXa0H1hnV/qcDz93nE="
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "pcsx2_libretro.zip",
+        "Type": 1
+      }
+    ],
     "Name": "pcsx2 (alpha)",
     "Version": "0471b1acd",
     "Extension": [],
@@ -3553,41 +3261,13 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDS2tWvpL0kser2X/eDpYMvdGjMzIhctL5hMnbk267zmSA=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3XXP2mSGAtMOIuHqpVw/2mmcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzAV/1FnZmrORbXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtlxdGpMHMWYqp57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbESPgLAXmL3972X/eDpYMvdKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2HmQNebtl5PCEM/SDJbHZDyqL5wM3sxBd/DzTL/gek6w=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe9rmvvwEIZWCE1I572+97aRdqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjXP2mSGAtMOIuHqpVw/2mm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
+        "Nome": "flycast_libretro.zip",
+        "Type": 1
       }
     ],
-    "Bios": [],
     "Name": "Flycast",
     "Version": "v1.3",
     "Extension": [],
@@ -3616,41 +3296,13 @@
         "device_id": 1
       }
     ],
-    "systemurls": [
+    "systemurls": [],
+    "Bios": [
       {
-        "plataforma": "windows",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz59LbfhvYO6TmC9UzBYJChh79zyyDrcNZDS2tWvpL0kser2X/eDpYMvdGjMzIhctL5hMnbk267zmSA=="
-      },
-      {
-        "plataforma": "linux",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5/7wA5CHXi3mBtXdA0hSIDSA9lhMp+hG3XXP2mSGAtMOIuHqpVw/2mmcAsjauzDjsIdbMZE1PUVOEyduTbrvOZI"
-      },
-      {
-        "plataforma": "android_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujrPXBqfIgIhzAV/1FnZmrORbXr4mn1/BNfqKe3PeqmpvWn11+1VxKMG"
-      },
-      {
-        "plataforma": "android_armeabi",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGweRKXzQ1ujprWkIrlWOtlxdGpMHMWYqp57U946dBXzUf2nWfPe5RbmddQ+mKFDYTiEttRnvP6gw="
-      },
-      {
-        "plataforma": "android_x86_64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGcw0dnFcyDbESPgLAXmL3972X/eDpYMvdKke+JBhl06G3x6bCmCH0+3mnEdOo3a4K"
-      },
-      {
-        "plataforma": "android_x86",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz58iwBdHW+cuoCL5IzWy8wSGijdju5cc4d2HmQNebtl5PCEM/SDJbHZDyqL5wM3sxBd/DzTL/gek6w=="
-      },
-      {
-        "plataforma": "ios_tvos",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSi6XjWwvNqhLYvsxRvhXVe9rmvvwEIZWCE1I572+97aRdqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
-      },
-      {
-        "plataforma": "ios_arm64",
-        "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjXP2mSGAtMOIuHqpVw/2mm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
+        "Nome": "flycast_libretro.zip",
+        "Type": 1
       }
     ],
-    "Bios": [],
     "Name": "Flycast",
     "Version": "v1.3",
     "Extension": [],
@@ -3713,7 +3365,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjXP2mSGAtMOIuHqpVw/2mm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "flycast_libretro.zip",
+        "Type": 1
+      }
+    ],
     "Name": "Flycast",
     "Version": "v1.3",
     "Extension": [],
@@ -3776,7 +3433,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjRpr4GKE2cwk1jxf8KAW+RbXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "picodrive_libretro.zip",
+        "Type": 0
+      }
+    ],
     "Name": "PicoDrive",
     "Version": "1.97-8a0e583",
     "Extension": [],
@@ -3847,6 +3509,10 @@
       {
         "Nome": "PPSSPP",
         "Type": 1
+      },
+      {
+        "Nome": "ppsspp_libretro.zip",
+        "Type": 1
       }
     ],
     "Name": "PPSSPP",
@@ -3911,7 +3577,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiqvfeSRRRrn2zjZnqge6AAJvjJF+tAhrur9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "pcsx_rearmed_libretro.zip",
+        "Type": 0
+      }
+    ],
     "Name": "PCSX-ReARMed",
     "Version": "r23l a4e249a",
     "Extension": [],
@@ -3974,7 +3645,24 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiA/DbzrrTkIf5hxpyU0Y8U+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "desmume_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "bios7.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "bios9.bin",
+        "Type": 0
+      },
+      {
+        "Nome": "firmware.bin",
+        "Type": 0
+      }
+    ],
     "Name": "DeSmuME",
     "Version": "git 5d0ae2b",
     "Extension": [],
@@ -4037,7 +3725,16 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjV/voG+nLJEzW54izTL+E5GRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "hatari_libretro.zip",
+        "Type": 0
+      },
+      {
+        "Nome": "tos.img",
+        "Type": 0
+      }
+    ],
     "Name": "Hatari",
     "Version": "1.8 1ebf0a0",
     "Extension": [],
@@ -4478,7 +4175,12 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiqvfeSRRRrn7+h6MxlmfufPTDO4LsRdtMZHLajQ1hHY3vXElaSS+kGeacR06jdrgo="
       }
     ],
-    "Bios": [],
+    "Bios": [
+      {
+        "Nome": "pcsx2_libretro.zip",
+        "Type": 1
+      }
+    ],
     "Name": "LRPS2 (alpha)",
     "Version": "1.7.0",
     "Extension": [],
