@@ -116,44 +116,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "genesis_plus_gx_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_E.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_J.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_U.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_MD.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_U.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_E.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_J.sms",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -216,44 +179,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "genesis_plus_gx_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_E.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_J.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_U.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_MD.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_U.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_E.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_J.sms",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -515,12 +441,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ9mfK1jF1YUwbLuvSBvN3aq/hqI46UtGr9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "mednafen_gba_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Beetle GBA",
     "Version": "v0.9.36 3818257",
     "Extension": [],
@@ -1127,44 +1048,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "genesis_plus_gx_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_E.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_J.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_U.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_MD.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_U.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_E.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_J.sms",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -1363,16 +1247,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjimuNFnSyrEkdJ8sdpg1DS3bXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "prosystem_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "7800 BIOS (U).rom",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "ProSystem",
     "Version": "1.3e 2f8bf38",
     "Extension": [],
@@ -1498,44 +1373,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "genesis_plus_gx_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_E.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_J.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_U.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_MD.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_U.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_E.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_J.sms",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -1598,44 +1436,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhPfQ37yJ1EnGa4oCG9lrpHyg2YL04+ilT40Ocb5OHyDMVv5Z0n20rSTJ25Nuu85kg="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "genesis_plus_gx_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_E.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_J.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_CD_U.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_MD.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_U.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_E.sms",
-        "Type": 0
-      },
-      {
-        "Nome": "bios_J.sms",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Genesis Plus GX",
     "Version": "v1.7.4 d789773",
     "Extension": [],
@@ -1698,12 +1499,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjRpr4GKE2cwk1jxf8KAW+RbXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "picodrive_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "PicoDrive",
     "Version": "1.97-8a0e583",
     "Extension": [],
@@ -1955,12 +1751,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjWHnT/l0QIB2PK+Zb9rdVWdqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "gambatte_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Gambatte",
     "Version": "v0.5.0-netlink 7e02df6",
     "Extension": [],
@@ -2149,12 +1940,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjgq7GiUzfKsxUc9VdUkTlY857U946dBXzV8UjiXAvWLOJyGz2dB+64QiEttRnvP6gw="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "swanstation_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "SwanStation",
     "Version": "",
     "Extension": [],
@@ -2280,16 +2066,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjixsydjIxHKR873aWtWb8/8HlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "handy_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "lynxboot.img",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Handy",
     "Version": "0.97 517bb2d",
     "Extension": [],
@@ -2352,12 +2129,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjWHnT/l0QIB2PK+Zb9rdVWdqYUqToVTnVo0qOlcAd6s0yFKj1W98iR"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "gambatte_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Gambatte",
     "Version": "v0.5.0-netlink 7e02df6",
     "Extension": [],
@@ -2735,24 +2507,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjBvl/3+VDVA2P9W0ze2zGXIQz9IMlsdkPq/hmvDTnGazhYH6IHiCyR"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "gearcoleco_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "ColecoVision (Different Font).rom",
-        "Type": 0
-      },
-      {
-        "Nome": "ColecoVision (No Intro).rom",
-        "Type": 0
-      },
-      {
-        "Nome": "ColecoVision.rom",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Gearcoleco",
     "Version": "1.0.1",
     "Extension": [],
@@ -2878,36 +2633,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiK8Scyrzsc/mollapkponDHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "opera_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "3do_arcade_saot.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "goldstar.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "panafz1.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "panafz10.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "panafz10e-anvil.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "sanyotry.bin",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Opera",
     "Version": "1.0.0 8a49bb8",
     "Extension": [],
@@ -3033,32 +2759,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjieyVaWR701YkbKdZklQUkkHlGBPqhYM2rp21jcStCB0WcHh4yZ7OOp"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "a5200_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "5200.rom",
-        "Type": 0
-      },
-      {
-        "Nome": "ATARIBAS.ROM",
-        "Type": 0
-      },
-      {
-        "Nome": "Atariosa.rom",
-        "Type": 0
-      },
-      {
-        "Nome": "ATARIOSB.ROM",
-        "Type": 0
-      },
-      {
-        "Nome": "ATARIXL.ROM",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "a5200",
     "Version": "2.0.2  b8f8571",
     "Extension": [],
@@ -3184,24 +2885,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjhQ4kGp5XwhM4W+u6zOu3Cm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "melonds_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios7.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios9.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "firmware.bin",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "melonDS",
     "Version": "0.9.3 e93ec3e",
     "Extension": [],
@@ -3266,7 +2950,7 @@
     ],
     "Bios": [
       {
-        "Nome": "dolphin_libretro.zip",
+        "Nome": "dolphin-emu",
         "Type": 1
       }
     ],
@@ -3334,7 +3018,7 @@
     ],
     "Bios": [
       {
-        "Nome": "dolphin_libretro.zip",
+        "Nome": "dolphin-emu",
         "Type": 1
       }
     ],
@@ -3400,16 +3084,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjitABm7z3YORtHI7+nY73UuGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "PPSSPP",
-        "Type": 1
-      },
-      {
-        "Nome": "OpenBOR",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "PPSSPP",
     "Version": "c9dee44",
     "Extension": [],
@@ -3724,12 +3399,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiqvfeSRRRrn9n5DiKOJcb0HKKJpmPSgjBteviafX8E15R8QmXa0H1hnV/qcDz93nE="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "pcsx2_libretro.zip",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "pcsx2 (alpha)",
     "Version": "0471b1acd",
     "Extension": [],
@@ -3918,12 +3588,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjXP2mSGAtMOIuHqpVw/2mm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "flycast_libretro.zip",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "Flycast",
     "Version": "v1.3",
     "Extension": [],
@@ -3986,12 +3651,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjXP2mSGAtMOIuHqpVw/2mm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "flycast_libretro.zip",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "Flycast",
     "Version": "v1.3",
     "Extension": [],
@@ -4054,12 +3714,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjXP2mSGAtMOIuHqpVw/2mm+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "flycast_libretro.zip",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "Flycast",
     "Version": "v1.3",
     "Extension": [],
@@ -4122,12 +3777,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjRpr4GKE2cwk1jxf8KAW+RbXr4mn1/BNeUfEJl2tB9YZ1f6nA8/d5x"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "picodrive_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "PicoDrive",
     "Version": "1.97-8a0e583",
     "Extension": [],
@@ -4190,16 +3840,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjitABm7z3YORtHI7+nY73UuGRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "PPSSPP",
-        "Type": 1
-      },
-      {
-        "Nome": "OpenBOR",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "PPSSPP",
     "Version": "c9dee44",
     "Extension": [],
@@ -4262,12 +3903,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiqvfeSRRRrn2zjZnqge6AAJvjJF+tAhrur9OaMGW5H5WbgH9WVCMSISLNkiQIEFJ0="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "pcsx_rearmed_libretro.zip",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "PCSX-ReARMed",
     "Version": "r23l a4e249a",
     "Extension": [],
@@ -4330,24 +3966,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiA/DbzrrTkIf5hxpyU0Y8U+NDnG+Th8gzFb+WdJ9tK0kyduTbrvOZI"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "desmume_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "bios7.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "bios9.bin",
-        "Type": 0
-      },
-      {
-        "Nome": "firmware.bin",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "DeSmuME",
     "Version": "git 5d0ae2b",
     "Extension": [],
@@ -4410,16 +4029,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjjV/voG+nLJEzW54izTL+E5GRy2o0NYR2N71xJWkkvpBnmnEdOo3a4K"
       }
     ],
-    "Bios": [
-      {
-        "Nome": "hatari_libretro.zip",
-        "Type": 0
-      },
-      {
-        "Nome": "tos.img",
-        "Type": 0
-      }
-    ],
+    "Bios": [],
     "Name": "Hatari",
     "Version": "1.8 1ebf0a0",
     "Extension": [],
@@ -4860,12 +4470,7 @@
         "url": "1H7IDMgI+rydHkVIYsopeXfMelHTmdt2mefr3f5sz5+2zTM8SwOhSsKDcccL19feGDhdxv1hIjiqvfeSRRRrn7+h6MxlmfufPTDO4LsRdtMZHLajQ1hHY3vXElaSS+kGeacR06jdrgo="
       }
     ],
-    "Bios": [
-      {
-        "Nome": "pcsx2_libretro.zip",
-        "Type": 1
-      }
-    ],
+    "Bios": [],
     "Name": "LRPS2 (alpha)",
     "Version": "1.7.0",
     "Extension": [],
